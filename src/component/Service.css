@@ -1,0 +1,17 @@
+.container{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+
+}
+.container .card1{
+    margin-bottom: 5rem;
+}
+.container .card1 .row{
+    margin-top: 2rem;
+    
+}
+.container .card1 .row .col .img-fluid{
+    box-shadow: 5px 5px 5px 5px grey;;
+    width: 550px;
+    height:300px;
+}

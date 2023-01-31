@@ -1,0 +1,47 @@
+
+.wrapper {
+  max-width: 100%;
+  min-height: 500px;
+  margin: 30px auto;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 13px 13px 20px rgb(90, 88, 88), -13px -13px 20px #fff;
+}
+
+.wrapper .form-field input {
+  margin-top: 1rem;
+  width: 100%;
+  display: block;
+  border: none;
+  outline: none;
+  background: none;
+  font-size: 1.2rem;
+  color: black;
+  padding: 10px 15px 10px 10px;
+}
+
+.wrapper .form-field {
+  margin-top: 2rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  box-shadow: inset 8px 8px 8px #cbced1, inset -8px -8px 8px #fff;
+}
+.wrapper .text {
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+.wrapper .btn {
+  
+  box-shadow: none;
+  margin-left: 18rem;
+  margin-top: 2rem;
+  width: 50%;
+  height: 40px;
+  background-color: #0a81ff;
+  color: #fff;
+  border-radius: 25px;
+  box-shadow: 3px 3px 3px #b1b1b1, -3px -3px 3px #fff;
+  letter-spacing: 1.3px;
+}
