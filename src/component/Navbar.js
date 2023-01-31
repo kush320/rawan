@@ -23,10 +23,10 @@ export default function Navbar() {
               <li className="nav-item mx-5">
                 <NavLink to="/">Home</NavLink>
               </li>
-              <li className="nav-item mx-5"> <NavLink to="about">About Me </NavLink></li>
               <li className="nav-item mx-5"><NavLink to="service">Services</NavLink></li>
               <li className="nav-item mx-5">Blogs</li>
               <li className="nav-item mx-5">Awards</li>
+              <li className="nav-item mx-5"> <NavLink to="about">About Me </NavLink></li>
               <li className="nav-item mx-5">
                 <NavLink to="contacts">Contact Me</NavLink>
               </li>

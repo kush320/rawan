@@ -5,7 +5,7 @@ export default function About() {
     <div className="container">
       <h1 className="text-center">HI EVERYBODY, I AM KUSHAL KOIRALA</h1>
       <h2 className="text-center"> SKILLED SOFTWARE ENGINEER</h2>
-      <h5 className="text-center my-3">
+      <h5 style={{textAlign:"justify"}}>
         I am a highly skilled software engineer with some of experience in the
         field. I have a strong background in both front-end and back-end
         development, with a focus on creating user-friendly and efficient

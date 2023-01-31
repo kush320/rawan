@@ -9,13 +9,13 @@ export default function Service() {
             <img
               src="web-development.jpg"
               className="img-fluid rounded-start"
-              alt="..."
+              alt=""
             />
           </div>
           <div className="col">
             <div className="card-body">
               <h4 className="text-center">Web Development</h4>
-              <p className="card-text">
+              <p className="card-text" style={{textAlign:"justify"}}>
                 I am specialize in web development services to help businesses
                 and individuals establish a strong online presence. Whether
                 you're looking to create a new website or revamp an existing
@@ -36,7 +36,7 @@ export default function Service() {
           <div className="col">
             <div className="card-body">
               <h4 className="text-center">Mobile Application Development</h4>
-              <p className="card-text">
+              <p className="card-text" style={{textAlign:"justify"}}>
                 I am specialize in mobile app development services to help
                 businesses and individuals take their ideas to the next level. I
                 can help you create a custom mobile app that meets your specific
@@ -57,7 +57,7 @@ export default function Service() {
             <img
               src="mobile-app.jpg"
               className="img-fluid rounded-start"
-              alt="..."
+              alt=""
             />
           </div>
         </div>
@@ -65,12 +65,12 @@ export default function Service() {
       <div className="card1">
         <div className="row">
           <div className="col">
-            <img src="graphic.jpg" className="img-fluid rounded-start" alt="..." />
+            <img src="graphic.jpg" className="img-fluid rounded-start" alt="" />
           </div>
           <div className="col">
             <div className="card-body">
               <h4 className="text-center">Graphic Design</h4>
-              <p className="card-text">
+              <p className="card-text" style={{textAlign:"justify"}}>
                 I am specialize in graphic design services to help businesses
                 and individuals bring their brand to life. I can create visually
                 stunning designs that effectively communicate your message and
@@ -93,7 +93,7 @@ export default function Service() {
           <div className="col">
             <div className="card-body">
               <h4 className="text-center">Digital Marketing</h4>
-              <p className="card-text">
+              <p className="card-text" style={{textAlign:"justify"}}>
                 I offer a wide range of digital marketing services, including:
                 Search engine optimization (SEO), Pay-per-click (PPC)
                 advertising, Social media marketing, Content marketing, Email
@@ -110,7 +110,7 @@ export default function Service() {
             </div>
           </div>
           <div className="col">
-            <img src="digital.avif" className="img-fluid rounded-start" alt="..." />
+            <img src="digital.avif" className="img-fluid rounded-start" alt="" />
           </div>
         </div>
       </div>

@@ -14,7 +14,7 @@ export default function Home() {
               <h5 className="card-title my-2">HELLO EVEYBODY, I AM </h5>
               <h3 className="text-center">KUSHAL KOIRALA</h3>
               <h5 className="text-center">JUNIOR SOFTWARE DEVELOPER</h5>
-              <p className="text-center">
+              <p style={{textAlign:"justify"}}>
                 I am a front-end developer with some of experience in creating
                 and implementing visually stunning and user-friendly designs for
                 web applications. I am well-versed in HTML, CSS, JavaScript and
